@@ -40,8 +40,7 @@ Some challenges encountered while creating the app included understanding Object
 
 ## Credits
 
-XCode, CocoaPods
-
+- CocoaPods
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking) - networking task library
 
 ## License
